@@ -10,7 +10,7 @@
 We Are Passionate Developers And Designers With An Inspiration To Help And Provide Quality Resources For Fivem & RedM Communities
 
 ## 📚 Documentation
-- [soon]()a
+- [soon]()
   
 ## 🎤 Our Discord
  <div align="left">
