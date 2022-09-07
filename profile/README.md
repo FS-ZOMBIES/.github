@@ -40,6 +40,6 @@ We Are Passionate Developers And Designers With An Inspiration To Help And Provi
 <img src="https://cdn.discordapp.com/attachments/688435303240957992/1017002282258268170/unknown.png"/>
 </td>
 <td>
-<img src=""/>
+<img src="https://cdn.discordapp.com/attachments/688435303240957992/1017009708848128040/unknown.png"/>
 </td>
 </tr>
