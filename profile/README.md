@@ -18,7 +18,7 @@ We Are Passionate Developers And Designers With An Inspiration To Help And Provi
   </a></p>
 </div>
 
-  - [Discord](https://discord.gg/6kJ5ubDEWE)
+  - [Discord](https://discord.com/invite/UFng7DWnWP)
  
 ## 👨‍💻 Meet the team
 <p align="center">
