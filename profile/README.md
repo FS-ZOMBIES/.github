@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6500&color=FFFFFF&lines=WELCOME+TO+FS-DEVELOPMENT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6500&color=FFFFFF&lines=WELCOME+TO+GhostFace-DEVELOPMENT)](https://git.io/typing-svg)
 
 <h3 align="left">We Are Currently Working On A FiveM FrameWork</h3>
 <p align="left">
